@@ -36,6 +36,14 @@ This font family is well suited to programming work for a few practical reasons:
 - Italic and bold variants make syntax highlighting, emphasis, and editor UI states more consistent.
 - Iosevka-style geometric forms tend to stay crisp in editors with dense text layouts and long coding sessions.
 
+## Nerd Font Compatibility
+
+These font files are not Nerd Font patched.
+
+If you want Nerd Font glyphs, icons, or symbols, you will need to patch the fonts yourself. See the Nerd Fonts guide here:
+
+- https://github.com/ryanoasis/nerd-fonts#option-10-patch-your-own-font
+
 ## Installation
 
 ### macOS
